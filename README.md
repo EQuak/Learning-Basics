@@ -1,10 +1,12 @@
-#Learning-Basics
+# Learning-Basics
 
 ## Introduction
 
 > This Repo contains resources about some of the popular languages that are used today.
 
-### Popular Front-end languages:
+### Popular Frontend languages:
+
+Links lead to Documentation
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -13,7 +15,9 @@
 - [Vue](https://vuejs.org/)
 - [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-### Popular Back-end languages:
+### Popular Backend languages:
+
+Links lead to Documentation
 
 - [Node](https://nodejs.org/en/)
 - [Ruby](http://rubyjs.org/)
@@ -23,27 +27,25 @@
 
 ---
 
-> ## Frontend Practices
+> ## Frontend Practices:
 >
-> | Topic            | Practice | Status |
-> | ---------------- | -------- | ------ |
-> | HTML             | [Link]() | [ ]    |
-> | CSS              | [Link]() | [ ]    |
-> | Basic Javascript | [Link]() | [ ]    |
-> | React            | [Link]() | [ ]    |
-> | Markdown         | [Link]() | [ ]    |
-
----
-
-> ## Backend Practices
+> | Topic            | Practice | Status: |
+> | ---------------- | -------- | ------- |
+> | HTML             | [Link]() | [ ]     |
+> | CSS              | [Link]() | [ ]     |
+> | Basic Javascript | [Link]() | [ ]     |
+> | React            | [Link]() | [ ]     |
+> | Markdown         | [Link]() | [ ]     |
 >
-> | Topic  | Practice | Status |
-> | ------ | -------- | ------ |
-> | Node   | [Link]() | [ ]    |
-> | Ruby   | [Link]() | [ ]    |
-> | Python | [Link]() | [ ]    |
-> | Rust   | [Link]() | [ ]    |
-> | Golang | [Link]() | [ ]    |
+> ## Backend Practices:
+>
+> | Topic  | Practice | Status: |
+> | ------ | -------- | ------- |
+> | Node   | [Link]() | [ ]     |
+> | Ruby   | [Link]() | [ ]     |
+> | Python | [Link]() | [ ]     |
+> | Rust   | [Link]() | [ ]     |
+> | Golang | [Link]() | [ ]     |
 
 ---
 
